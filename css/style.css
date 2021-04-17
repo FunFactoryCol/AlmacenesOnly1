@@ -247,7 +247,11 @@ h2 {
 
 .nav .navbar {
     height: 100%;
-    padding: 0;
+    padding: 10px;
+}
+nav .navbar a {
+    
+    margin: 10px 20px;
 }
 
 .nav .dropdown-menu {
