@@ -2370,6 +2370,8 @@ nav .navbar a {
 .footer-bottom .copyright {
     text-align: left;
 }
+ p .copyright {
+    color: #dddddd;
 
 .footer-bottom .template-by {
     text-align: right;
